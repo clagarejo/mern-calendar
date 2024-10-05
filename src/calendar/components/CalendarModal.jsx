@@ -18,7 +18,7 @@ registerLocale('es', es);
 
 const customStyles = {
     content: {
-        top: '60%',
+        top: '50%',
         left: '50%',
         right: 'auto',
         bottom: 'auto',
